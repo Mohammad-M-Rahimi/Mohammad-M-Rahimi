@@ -1,6 +1,8 @@
 #Mohammad Mahdi Rahimi
 
-I'm Mohammad Mahdi from Iran , and I do Front-End programing . I realy enjoy learning framworks , I also enjoy UI, UX and design in general. 
+I'm a passionate Front-End developer who loves turning ideas into clean, efficient, and visually appealing web applications , and I enjoy the challenge of staying ahead in the dynamic world of web development.
+Currently, I'm deeply immersed in Front-End technologies, constantly exploring and learning.  
+Beyond coding, I have a keen interest in UI/UX design.
 
 ## Skills and Experience
 

@@ -9,4 +9,5 @@ I'm Mohammad Mahdi from Iran , and I do Front-End programing . I realy enjoy lea
 * Ⓜ️ MUI
 * 💻 HTML, CSS, JS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mohammad-M-Rahimi=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mohammad Mahdi Rahimi
+=anuraghazra&show_icons=true&bg_color=00000000)

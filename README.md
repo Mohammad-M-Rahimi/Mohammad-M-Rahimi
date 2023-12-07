@@ -9,6 +9,6 @@ Beyond coding, I have a keen interest in UI/UX design.
 * ⚛  React
 * 📱 React Navtive
 * Ⓜ️ MUI
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS, TS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-M-Rahimi&show_icons=true&theme=transparent)

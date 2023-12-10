@@ -26,4 +26,13 @@ Front-End :<p align="left">
 
 <p align="left"> <a href="https://www.linkedin.com/in/mohammad-mahdi-rahimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Mohammad-M-Rahimi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohammad-M-Rahimi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-M-Rahimi&show_icons=true&theme=transparent)

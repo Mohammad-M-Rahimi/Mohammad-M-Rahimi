@@ -4,13 +4,6 @@ I'm a passionate Front-End developer who loves turning ideas into clean, efficie
 Currently, I'm deeply immersed in Front-End technologies, constantly exploring and learning.  
 Beyond coding, I have a keen interest in UI/UX design.
 
-## Skills and Experience
-
-* ⚛  React
-* 📱 React Navtive
-* Ⓜ️ MUI
-* 💻 HTML, CSS, JS, TS
-
 ## Skills
 
 Front-End :<p align="left">
